@@ -13,6 +13,9 @@ It will generate a .csv file which has four column
 3.Check Value
 4.Status like weather the control point is compliant or not
 
+
+Command to run this script : bash rhel7.sh
+
 Some points need to be verfy mannually.
 For those points I have already wirtten Check Output in  Check Value
 
